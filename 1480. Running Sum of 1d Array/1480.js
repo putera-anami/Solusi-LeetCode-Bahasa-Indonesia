@@ -20,4 +20,4 @@ var runningSum = function(nums) {
 // console.log(runningSum([1,1,1,1,1]));
 // console.log(runningSum([1,3,5,7]));
 
-//Perlu ditambahin penjelasan yang lebih lengkap *liat Youtube litCode sebagai sumber.
+// Perlu ditambahin penjelasan yang lebih lengkap *liat Youtube litCode sebagai sumber.

@@ -2,15 +2,15 @@
  * @param {number} num
  * @return {number}
  */
-var addDigits = function(num) { //fungsi dengan nama addDigits yang menerima parameter num.
-    if(num < 10) { //jika sudah 1 digit,
-        return num; //kembalikan nilai num.
+var addDigits = function(num) { // fungsi dengan nama addDigits yang menerima parameter num.
+    if(num < 10) { // jika sudah 1 digit,
+        return num; // kembalikan nilai num.
     }
-    else if (num % 9 === 0) { //jika num dibagi 9 sisa baginya 0,
-        return 9; //kembalikan nilai 9.
+    else if (num % 9 === 0) { // jika num dibagi 9 sisa baginya 0,
+        return 9; // kembalikan nilai 9.
     }
     else {
-        return num % 9; //jika num modulo 9 masih ada sisa, kembalikan nilai sisanya (modulusnya).
+        return num % 9; // jika num modulo 9 masih ada sisa, kembalikan nilai sisanya (modulusnya).
     }
 };
 

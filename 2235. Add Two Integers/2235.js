@@ -9,4 +9,4 @@ var sum = function(num1, num2) { // fungsi dengan nama sum yang menerima paramet
 };
 
 // Di bawah ini gak perlu di-copy ke LeetCode.
-// console.log(sum(3, 5)); //memanggil fungsi sum dengan argumen 3 dan 5 lalu tampilkan output ke konsol.
+// console.log(sum(3, 5)); // memanggil fungsi sum dengan argumen 3 dan 5 lalu tampilkan output ke konsol.
