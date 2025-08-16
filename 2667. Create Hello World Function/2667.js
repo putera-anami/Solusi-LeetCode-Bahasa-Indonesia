@@ -8,7 +8,7 @@ var createHelloWorld = function() { // fungsi anonim yang disimpan ke variabel c
     }
 };
 
-// Di bawah ini hint dari LeetCode.
+// Di bawah ini kode boilerplate dari LeetCode.
 /**
  * const f = createHelloWorld();
  * f(); // "Hello World"
