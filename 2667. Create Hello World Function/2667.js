@@ -1,7 +1,7 @@
 /**
  * @return {Function}
  */
-var createHelloWorld = function() { // membuat fungsi anonim yang disimpan ke variabel createHelloWorld. Jika createHelloWorld dipanggil, akan mengembalikan fungi lain.
+var createHelloWorld = function() { // fungsi anonim yang disimpan ke variabel createHelloWorld. Jika createHelloWorld dipanggil, akan mengembalikan fungi lain.
     
     return function(...args) { // fungsi yang dikembalikan dengan parameter (...args), yang artinya bisa menerima berapa pun jumlah argumen.
         return "Hello World"; // mengembalikan string "Hello World" tidak peduli argumen yang diberikan.

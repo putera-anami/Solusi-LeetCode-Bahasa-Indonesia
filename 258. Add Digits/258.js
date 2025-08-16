@@ -2,7 +2,7 @@
  * @param {number} num
  * @return {number}
  */
-var addDigits = function(num) { // fungsi dengan nama addDigits yang menerima parameter num.
+var addDigits = function(num) { // fungsi anonim yang menerima parameter num, lalu disimpan ke variabel addDigits.
     if(num < 10) { // jika sudah 1 digit,
         return num; // kembalikan nilai num.
     }

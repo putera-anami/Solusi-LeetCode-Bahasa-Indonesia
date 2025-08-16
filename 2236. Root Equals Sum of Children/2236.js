@@ -9,7 +9,7 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-var checkTree = function(root) { // fungsi bernama checkTree yang menerima parameter root.
+var checkTree = function(root) { // fungsi anonim yang menerima parameter root, lalu disimpan ke variabel checkTree.
     return root.val === root.left.val + root.right.val; // melakukan pengecekan untuk memastikan apakah nilai dari node akar (root.val) sama dengan jumlah dari nilai anak kiri (root.left.val) dan anak kanan (root.right.val).
 };
 

@@ -4,7 +4,7 @@
  * @return {number}
  */
 
-var sum = function(num1, num2) { // fungsi dengan nama sum yang menerima parameter num1 dan num 2.
+var sum = function(num1, num2) { // fungsi anonim yang menerima parameter num1 dan num 2, lalu disimpan ke variabel sum.
     return num1 + num2; // mengembalikan nilai hasil jumlah (num1 ditambah num2).
 };
 
