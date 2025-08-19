@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var runningSum = function(nums) { // fungsi anonim yang menerima parameter nums, lalu disimpan ke variabel runningSum.
+var runningSum = function(nums) { // Fungsi anonim yang menerima parameter nums, lalu disimpan ke variabel runningSum.
     let result = [];
     let currentSum = 0;
 

@@ -2,10 +2,10 @@
  * @param {number} n
  * @return {Function} counter
  */
-var createCounter = function(n) { // fungsi anonim yang menerima parameter n, lalu disimpan ke variabel createCounter.
+var createCounter = function(n) { // Fungsi anonim yang menerima parameter n, lalu disimpan ke variabel createCounter.
     
-    return function() { // fungsi yang dikembalikan.
-        return n++; // kembalikan nilai n++, yaitu nilai n lalu ditambah 1 setiap iterasinya.
+    return function() { // Fungsi yang dikembalikan.
+        return n++; // Kembalikan nilai n++, yaitu nilai n lalu ditambah 1 setiap iterasinya.
     };
 };
 
@@ -18,7 +18,7 @@ var createCounter = function(n) { // fungsi anonim yang menerima parameter n, la
  */
 
 // Di bawah ini gak perlu copy ke LeetCode.
-// const counter = createCounter(10); // membuat variabel counter yang memanggil fungsi createCounter.
-// console.log(counter()); // memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
-// console.log(counter()); // memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
-// console.log(counter()); // memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
+// const counter = createCounter(10); // Membuat variabel counter yang memanggil fungsi createCounter dengan argumen 10.
+// console.log(counter()); // Memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
+// console.log(counter()); // Memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
+// console.log(counter()); // Memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
