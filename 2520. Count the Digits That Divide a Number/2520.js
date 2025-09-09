@@ -16,7 +16,7 @@ var countDigits = function(num) {
     return count;
 };
 
-// Di bawah ini gak perlu di-copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(countDigits(7));
 // console.log(countDigits(121));
 // console.log(countDigits(1248));

@@ -15,7 +15,7 @@ var mostWordsFound = function(sentences) {
     return maxWords;
 };
 
-// Di bawah ini gak perlu di-copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // let firstSentence = mostWordsFound(["alice and bob love leetcode", "i think so too", "this is great thanks very much"]);
 // let secondSentence = mostWordsFound(["please wait", "continue to fight", "continue to win"]);
 

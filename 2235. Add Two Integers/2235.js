@@ -8,5 +8,5 @@ var sum = function(num1, num2) { // Fungsi anonim yang menerima parameter num1 d
     return num1 + num2; // Mengembalikan nilai hasil jumlah (num1 ditambah num2).
 };
 
-// Di bawah ini gak perlu di-copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(sum(3, 5)); // Memanggil fungsi sum dengan argumen 3 dan 5 lalu tampilkan output ke konsol.

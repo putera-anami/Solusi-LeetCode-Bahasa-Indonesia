@@ -22,6 +22,6 @@ var argumentsLength = function(...args) {
  * argumentsLength(1, 2, 3); // 3
  */
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(argumentsLength(5));
 // console.log(argumentsLength({}, null, "3"));

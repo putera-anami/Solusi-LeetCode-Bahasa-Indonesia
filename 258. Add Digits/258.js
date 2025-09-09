@@ -14,7 +14,7 @@ var addDigits = function(num) { // Fungsi anonim yang menerima parameter num, la
     }
 };
 
-// Kode di bawah gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(addDigits(52738)); // Memanggil fungsi addDigits dengan argumen 52738 lalu tampilkan output ke konsol.
 // console.log(addDigits(99)); // Memanggil fungsi addDigits dengan argumen 99 lalu tampilkan output ke konsol.
 

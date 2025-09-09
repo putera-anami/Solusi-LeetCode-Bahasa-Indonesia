@@ -14,8 +14,9 @@ var createHelloWorld = function() { // Fungsi anonim yang disimpan ke variabel c
  * f(); // "Hello World"
  */
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // const f = createHelloWorld(); // Membuat variabel f yang memanggil fungsi createHelloWorld. Karena createHelloWorld mengembalikan fungsi, maka f juga merupakan fungsi.
+
 // console.log(f()); // Memanggil fungsi f tanpa argumen lalu tampilkan output ke konsol.
 // console.log(f(null)); // Memanggil fungsi f dengan argumen null lalu tampilkan output ke konsol.
 // console.log(f(42)); // Memanggil fungsi f dengan argumen 42 lalu tampilkan output ke konsol.

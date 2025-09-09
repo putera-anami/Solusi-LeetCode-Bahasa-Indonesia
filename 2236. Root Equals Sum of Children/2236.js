@@ -13,8 +13,9 @@ var checkTree = function(root) { // Fungsi anonim yang menerima parameter root, 
     return root.val === root.left.val + root.right.val; // Melakukan pengecekan untuk memastikan apakah nilai dari node akar (root.val) sama dengan jumlah dari nilai anak kiri (root.left.val) dan anak kanan (root.right.val).
 };
 
-// Di bawah ini gak perlu copy ke LeetCode
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // let leftChild = new TreeNode(4); // Membuat node dengan nilai 4.
 // let rightChild = new TreeNode(6); // Membuat node dengan nilai 6.
 // let root = new TreeNode(10, leftChild, rightChild); // Membuat node akar dengan nilai 10, yang memiliki anak leftChild dan rightChild.
+
 // console.log(checkTree(root)); // Memanggil fungsi checkTree dengan argumen root lalu tampilkan output ke konsol.

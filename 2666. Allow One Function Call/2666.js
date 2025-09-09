@@ -22,7 +22,7 @@ var once = function(fn) {
  * onceFn(2,3,6); // returns undefined without calling fn
  */
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // function sum(a, b, c) {
 //   return a + b + c;
 // }

@@ -18,10 +18,10 @@ var compose = function(functions) {
  * fn(4) // 9
  */
 
-// Di bawah ini gak perlu copy ke LeetCode.
-const f = x => x + 1;
-const g = x => x * x;
-const h = x => 2 * x;
+// Kode di bawah tidak perlu disalin ke LeetCode.
+// const f = x => x + 1;
+// const g = x => x * x;
+// const h = x => 2 * x;
+// const composed = compose([f, g, h]);
 
-const composed = compose([f, g, h]);
-console.log(composed(4));
+// console.log(composed(4));

@@ -15,7 +15,7 @@ var runningSum = function(nums) { // Fungsi anonim yang menerima parameter nums,
     return result;
 };
 
-// Gak perlu copy ke LeetCode
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(runningSum([1,2,3,4]));
 // console.log(runningSum([1,1,1,1,1]));
 // console.log(runningSum([1,3,5,7]));

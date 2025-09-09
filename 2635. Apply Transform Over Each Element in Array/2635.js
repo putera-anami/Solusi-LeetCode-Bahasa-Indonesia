@@ -11,7 +11,7 @@ var map = function(arr, fn) {
     return result;
 };
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(map([1, 2, 3], (n, i) => n + 1));
 // console.log(map([1, 2, 3], (n, i) => n + i));
 // console.log(map([10, 20, 30], (n, i) => 42));

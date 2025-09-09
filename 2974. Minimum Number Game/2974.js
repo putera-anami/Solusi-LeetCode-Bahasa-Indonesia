@@ -10,6 +10,6 @@ var numberGame = function(nums) {
     return nums;
 };
 
-// Di bawah ini gak perlu di-copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(numberGame([5, 4, 2, 3]));
 // console.log(numberGame([2, 5]));

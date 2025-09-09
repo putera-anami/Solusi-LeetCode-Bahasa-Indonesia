@@ -30,8 +30,9 @@ var createCounter = function(init) { // Fungsi anonim yang menerima parameter in
  * counter.decrement(); // 4
  */
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // let counter = createCounter(5); // Membuat variabel counter yang memanggil fungsi createCounter dengan argumen 10.
+
 // console.log(counter.increment()); // Memanggil fungsi increment tanpa argumen pada objek counter lalu tampilkan output ke konsol.
 // console.log(counter.reset()); // Memanggil fungsi reset tanpa argumen pada objek counter lalu tampilkan output ke konsol.
 // console.log(counter.decrement()); // Memanggil fungsi decrement tanpa argumen pada objek counter lalu tampilkan output ke konsol.

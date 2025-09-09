@@ -17,8 +17,9 @@ var createCounter = function(n) { // Fungsi anonim yang menerima parameter n, la
  * counter() // 12
  */
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // const counter = createCounter(10); // Membuat variabel counter yang memanggil fungsi createCounter dengan argumen 10.
+
 // console.log(counter()); // Memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
 // console.log(counter()); // Memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.
 // console.log(counter()); // Memanggil fungsi counter tanpa argumen lalu tampilkan output ke konsol.

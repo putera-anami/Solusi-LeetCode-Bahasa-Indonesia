@@ -11,10 +11,11 @@ var checkIfPangram = function(sentence) {
     return alphabet.size === 26;
 };
 
-// Di bawah ini gak perlu di-copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // const firstSentence = checkIfPangram("abcdefghijklmnopqrstuvwxyz");
 // const secondSentence = checkIfPangram("abcdefghijklmnopqrstuvwxy");
 // const thirdSentence = checkIfPangram("thequickbrownfoxjumpsoverthelazydog");
+
 // console.log(firstSentence);
 // console.log(secondSentence);
 // console.log(thirdSentence);

@@ -19,7 +19,7 @@ var firstUniqChar = function(s) {
     return -1;
 };
 
-// Di bawah ini gak perlu di-copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // console.log(firstUniqChar("leetcode"));
 // console.log(firstUniqChar("loveleetcode"));
 // console.log(firstUniqChar("aabb"));

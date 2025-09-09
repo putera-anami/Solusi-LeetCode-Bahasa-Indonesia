@@ -12,10 +12,10 @@ var reduce = function(nums, fn, init) {
     return res;
 };
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 // const nums = [1, 2, 3, 4];
 // const fn = (acc, curr) => acc + curr;
 // const init = 0;
-
 // const result = reduce(nums, fn, init);
+
 // console.log(result);

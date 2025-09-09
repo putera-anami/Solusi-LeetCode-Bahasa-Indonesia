@@ -28,7 +28,7 @@ var expect = function(val) {
  * expect(5).notToBe(5); // throws "Equal"
  */
 
-// Di bawah ini gak perlu copy ke LeetCode.
+// Kode di bawah tidak perlu disalin ke LeetCode.
 
 // Case yang menghasilkan nilai true.
 // console.log(expect(5).toBe(5));
