@@ -3,12 +3,12 @@
  * @return {number}
  */
 
-// Cara 1
+// Solusi 1
 var argumentsLength = function(...args) {
     return args.length;
 };
 
-// Cara 2
+// Solusi 2
 // var argumentsLength = function(...args) {
 //     let count = 0;
 //     for (let i=0; i < args.length; i++) {
